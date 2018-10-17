@@ -1,8 +1,4 @@
 halo world
 tell your world
-<<<<<<< HEAD
-tell his world
-=======
 tell his world
 tell her world
->>>>>>> 0ae035f79bf32dbc502bbb377a457ae26768429a
